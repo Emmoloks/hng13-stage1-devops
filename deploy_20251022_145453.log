@@ -1,0 +1,3 @@
+[2025-10-22 14:55:54] ✅ Docker file found.
+[2025-10-22 14:55:54] Testing SSH connection to 102.37.144.137...
+[2025-10-22 14:55:55] ❌ ERROR: SSH connection failed.
